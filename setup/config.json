@@ -1,110 +1,84 @@
 {
-    "setup": {
-        "city": "pattay",
-        "delay": 10
+  "setup": {
+    "city": "Bien Hoa",
+    "delay": 4.5
+  },
+  "config": {
+    "options": {
+      "watch-url": ["https://www.youtube.com/watch?v=G7qhXHPeeGA"],
+      "timestamp": " "
     },
-    "config": {
-        "options": {
-            "watch-url": [
-                "https://www.twitch.tv/4levy_z1", 
-                "https://www.youtube.com/watch?v=HuFZX0LB29g"
-            ],
-            "timestamp": "{end:1719680400}"
-        },
-        "text-1": [
-            "{emoji:time} {hour:1}:{min:1} ⌯ {th=date}/{th=month:1}/{th=year:2} | ReadAble Verison By 4levy"
-        ],
-        "text-2": [
-            "Feixiao Loading..",
-            "| 🌺 ╺ ⠀Feixiao ྀི𓈒",
-            "| 🌺 ╺ ⠀Feixiao ྀི𓈒" ,
-            "Sparkle Loading..",
-            "| 🩸 ╺  Sparkle ྀི𓈒 ♡",
-            "| 🩸⠀╺  Sparkle ྀི𓈒 ♡",
-            "| 🩸⠀╺  Sparkle ྀི𓈒 ♡",
-            "Acheron Loading..",
-            "| ☪⠀╺  Acheron ྀི𓈒",
-            "| ☪⠀╺  Acheron ྀི𓈒",
-            "| ☪⠀╺  Acheron ྀི𓈒",
-            "Miku Loading..",
-            "| 💙 ╺  Miku ྀི𓈒",
-            "| 💙 ╺  Miku ྀི𓈒",
-            "| 💙 ╺  Miku ྀི𓈒",
-            "Saber Loading..",
-            "| 🖤 ╺  Saber ྀི𓈒",
-            "| 🖤 ╺  Saber ྀི𓈒",
-            "| 🖤 ╺  Saber ྀི𓈒",
-            "| 🖤 ╺  Saber ྀི𓈒"
-        ],
-        "text-3": [
-            ""
-        ],
-        "bigimg": [
-            "https://i.postimg.cc/bvV6184V/Feixiao.jpg",
-            "https://i.postimg.cc/52F5DbCC/Pic-1.gif",
-            "https://i.postimg.cc/YqPfXhh7/Pic-2.gif",
-            "https://i.postimg.cc/dVKjCD3V/Sparkle.jpg",
-            "https://i.postimg.cc/tgqdrfh0/Sparkle-2.gif",
-            "https://i.postimg.cc/CxHHsYnH/Sparkle-3.gif",
-            "https://i.postimg.cc/VLXjz1gQ/Sparkle-4.gif",
-            "https://i.postimg.cc/Kvh0P0sb/Acheron.jpg",
-            "https://i.postimg.cc/CxFJtzg6/Acheron-2.gif",
-            "https://i.postimg.cc/6QqcWgTr/Acheron-3.gif",
-            "https://i.postimg.cc/4xBwTs44/Acheron-4.gif",
-            "https://i.postimg.cc/Y266HMbc/Miku.jpg",
-            "https://i.postimg.cc/ZKj6WHGV/Miku-2.gif",
-            "https://i.postimg.cc/Cx1kkDYY/Miku-3.gif",
-            "https://i.postimg.cc/jdRzqmFD/Miku-4.gif",
-            "https://i.postimg.cc/tT54BStc/Saber.jpg",
-            "https://i.postimg.cc/1X352Gv3/Saber-2.gif",
-            "https://i.postimg.cc/yxpYHDGX/Saber-3.gif",
-            "https://i.postimg.cc/02ryCC6t/Saber-4.gif",
-            "https://i.postimg.cc/c1FJYzJg/Saber-5.gif"
-        ],
-        "smallimg": [],
-        "button-1": [
-            {
-                "name": "M",
-                "url": "https://discord.gg/TSdpyMMfrU"
-            },
-            {
-                "name": "MI",
-                "url": "https://discord.gg/TSdpyMMfrU"
-            },
-            {
-                "name": "MIY",
-                "url": "https://discord.gg/TSdpyMMfrU"
-            },
-            {
-                "name": "MIYA",
-                "url": "https://discord.gg/TSdpyMMfrU"
-            },
-            {
-                "name": "MIYAK",
-                "url": "https://discord.gg/TSdpyMMfrU"
-            },
-            {
-                "name": "MIYAKO",
-                "url": "https://discord.gg/TSdpyMMfrU"
-            },
-            {
-                "name": "MIYAKO ",
-                "url": "https://discord.gg/TSdpyMMfrU"
-            },
-            {
-                "name": "MIYAKO V",
-                "url": "https://discord.gg/TSdpyMMfrU"
-            },
-            {
-                "name": "MIYAKO V1",
-                "url": "https://discord.gg/TSdpyMMfrU"
-            }
-        ],
-        "button-2": [
-            {
-                "name": "Stream status > Deobf",
-                "url": "https://github.com/4levy/Streaming-status"
-            }
-        ]
-    }
-}
+    "text-1": [
+        "ㅤ"
+    ],
+    "text-2": [
+        "ㅤ"
+    ],
+    "text-3": [
+        "{NF4(🌡️ {temp:c}  °𝐂ㅤ⋆ㅤ🍃 {wind:kph})}  𝐦/𝐬"
+    ],
+    "bigimg": [
+        "https://i.ibb.co/kBWCcxf/black-clover-black-clover-movie.gif",
+        "https://i.ibb.co/Zg30JB8/kakashi-obito.gif",
+        "https://i.ibb.co/h23P4mH/88f30209bc5e9862b33c296c8e77a22b.gif",
+        "https://i.ibb.co/Dt4tyDy/4a82e2e8a4eba10dd66b40a21c1e43e1.gif",
+        "https://i.ibb.co/cXXXktj/51e42d52a141365ed1d55580f3b1c60f.gif",
+        "https://i.ibb.co/S6sK6q2/603cf28abc715b82e22b4943b3383de2.gif",
+        "https://i.ibb.co/Z8hXCJY/6d450c1497b2cda38f30a427848f11a3.gif",
+        "https://i.ibb.co/Jc9kS8Z/7dce98ac902442a7f17f0a270148bc13.gif",
+        "https://i.ibb.co/Y74psVb/3370f83c71c11e4d28e5388190819dee.gif",
+        "https://i.ibb.co/bKGBcFN/491e98a2c3e81f3efb34db8f9e4c62a8.gif",
+        "https://i.ibb.co/rmz1wt4/5d2c44694918947aede42306cb7154d0.gif",
+        "https://i.ibb.co/SsF25LS/b7b2df7afe07585c8fef27a21d279d92717f8404-hq.gif",
+        "https://i.ibb.co/dr6X1mD/dbef8931f8361d7df8c3f078b6055f36.gif",
+        "https://i.ibb.co/t8rvJhL/ad28f282030ac10304b2253f3cbc7b11.gif",
+        "https://i.ibb.co/PwHSdK4/0c75c23a7d8293f6ed00761063bb932d.gif",
+        "https://i.ibb.co/ZMM96Hz/2205a7765048928a23040380feafabee.gif",
+        "https://i.ibb.co/G5fsHtX/62ca321f6634ca858cf7ae81cfcb71a3.gif",
+        "https://i.ibb.co/j89SPNv/0457d69437550d5b925a1f2df5fde07d.gif",
+        "https://i.ibb.co/G3ZXZCB/4e4690fdda546b5314cd3ba6df7444ff.gif",
+        "https://i.ibb.co/J7nMMbM/a366299efb2171ea09cd5504ddb31e85.gif",
+        "https://i.ibb.co/P5sH4St/b3dabc47f66ffd2d4830f5a3e440e5f1.gif"
+    ],
+    "smallimg": [
+      "https://i.ibb.co/0h51ZGK/hotwheels.gif",
+      "https://i.ibb.co/3C9LJjf/47ed4b3d8e04bfd1bbde56b7f1d349e1.gif",
+      "https://i.ibb.co/9tsNZqZ/9b5823d7f5f28ddbd26a6dfb7b50f4b1.gif",
+      "https://i.ibb.co/VTjnzCL/92781de43b95427b1bc57579ddc5843a.gif",
+      "https://i.ibb.co/BrBKZjL/logo-chrome-300x300.gif" ,
+      "https://i.ibb.co/BCL5k5T/IMG-8868.gif",
+      "https://i.ibb.co/5rYV9kB/IMG-8869.gif"
+    ],
+    "button-1": [
+        {
+        "name": "` случайность $ ;",
+        "url": "https://www.facebook.com/SonNguyenRiel"
+      },
+      {
+        "name": "- Диаметр o/һ ;",
+        "url": "https://www.instagram.com/_solly1402"
+      },
+      {
+        "name": "` скучный # ;",
+        "url": "https://discord.com/invite/CDr8XXYAD5"
+      },
+      {
+        "name": "- JasenSexhod $ ;",
+        "url": "https://on.soundcloud.com/BBzvtjFDaKSqTnsF9"
+      },
+      {
+        "name": "@1 - tag purs",
+        "url": "https://guns.lol/wz.sollyx"
+      },
+      {
+        "name": "- hard ; # hr",
+        "url": "https://www.savethechildren.org/us/where-we-work/africa"
+      },
+      {
+        "name": "/$/",
+        "url": "https://www.pinterest.com/solly1402"
+      }
+    ],
+    "button-2": []
+  }
+} 
