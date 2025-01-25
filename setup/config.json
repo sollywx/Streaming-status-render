@@ -1,0 +1,110 @@
+{
+    "setup": {
+        "city": "pattay",
+        "delay": 10
+    },
+    "config": {
+        "options": {
+            "watch-url": [
+                "https://www.twitch.tv/4levy_z1", 
+                "https://www.youtube.com/watch?v=HuFZX0LB29g"
+            ],
+            "timestamp": "{end:1719680400}"
+        },
+        "text-1": [
+            "{emoji:time} {hour:1}:{min:1} ⌯ {th=date}/{th=month:1}/{th=year:2} | ReadAble Verison By 4levy"
+        ],
+        "text-2": [
+            "Feixiao Loading..",
+            "| 🌺 ╺ ⠀Feixiao ྀི𓈒",
+            "| 🌺 ╺ ⠀Feixiao ྀི𓈒" ,
+            "Sparkle Loading..",
+            "| 🩸 ╺  Sparkle ྀི𓈒 ♡",
+            "| 🩸⠀╺  Sparkle ྀི𓈒 ♡",
+            "| 🩸⠀╺  Sparkle ྀི𓈒 ♡",
+            "Acheron Loading..",
+            "| ☪⠀╺  Acheron ྀི𓈒",
+            "| ☪⠀╺  Acheron ྀི𓈒",
+            "| ☪⠀╺  Acheron ྀི𓈒",
+            "Miku Loading..",
+            "| 💙 ╺  Miku ྀི𓈒",
+            "| 💙 ╺  Miku ྀི𓈒",
+            "| 💙 ╺  Miku ྀི𓈒",
+            "Saber Loading..",
+            "| 🖤 ╺  Saber ྀི𓈒",
+            "| 🖤 ╺  Saber ྀི𓈒",
+            "| 🖤 ╺  Saber ྀི𓈒",
+            "| 🖤 ╺  Saber ྀི𓈒"
+        ],
+        "text-3": [
+            ""
+        ],
+        "bigimg": [
+            "https://i.postimg.cc/bvV6184V/Feixiao.jpg",
+            "https://i.postimg.cc/52F5DbCC/Pic-1.gif",
+            "https://i.postimg.cc/YqPfXhh7/Pic-2.gif",
+            "https://i.postimg.cc/dVKjCD3V/Sparkle.jpg",
+            "https://i.postimg.cc/tgqdrfh0/Sparkle-2.gif",
+            "https://i.postimg.cc/CxHHsYnH/Sparkle-3.gif",
+            "https://i.postimg.cc/VLXjz1gQ/Sparkle-4.gif",
+            "https://i.postimg.cc/Kvh0P0sb/Acheron.jpg",
+            "https://i.postimg.cc/CxFJtzg6/Acheron-2.gif",
+            "https://i.postimg.cc/6QqcWgTr/Acheron-3.gif",
+            "https://i.postimg.cc/4xBwTs44/Acheron-4.gif",
+            "https://i.postimg.cc/Y266HMbc/Miku.jpg",
+            "https://i.postimg.cc/ZKj6WHGV/Miku-2.gif",
+            "https://i.postimg.cc/Cx1kkDYY/Miku-3.gif",
+            "https://i.postimg.cc/jdRzqmFD/Miku-4.gif",
+            "https://i.postimg.cc/tT54BStc/Saber.jpg",
+            "https://i.postimg.cc/1X352Gv3/Saber-2.gif",
+            "https://i.postimg.cc/yxpYHDGX/Saber-3.gif",
+            "https://i.postimg.cc/02ryCC6t/Saber-4.gif",
+            "https://i.postimg.cc/c1FJYzJg/Saber-5.gif"
+        ],
+        "smallimg": [],
+        "button-1": [
+            {
+                "name": "M",
+                "url": "https://discord.gg/TSdpyMMfrU"
+            },
+            {
+                "name": "MI",
+                "url": "https://discord.gg/TSdpyMMfrU"
+            },
+            {
+                "name": "MIY",
+                "url": "https://discord.gg/TSdpyMMfrU"
+            },
+            {
+                "name": "MIYA",
+                "url": "https://discord.gg/TSdpyMMfrU"
+            },
+            {
+                "name": "MIYAK",
+                "url": "https://discord.gg/TSdpyMMfrU"
+            },
+            {
+                "name": "MIYAKO",
+                "url": "https://discord.gg/TSdpyMMfrU"
+            },
+            {
+                "name": "MIYAKO ",
+                "url": "https://discord.gg/TSdpyMMfrU"
+            },
+            {
+                "name": "MIYAKO V",
+                "url": "https://discord.gg/TSdpyMMfrU"
+            },
+            {
+                "name": "MIYAKO V1",
+                "url": "https://discord.gg/TSdpyMMfrU"
+            }
+        ],
+        "button-2": [
+            {
+                "name": "Stream status > Deobf",
+                "url": "https://github.com/4levy/Streaming-status"
+            }
+        ]
+    }
+}
