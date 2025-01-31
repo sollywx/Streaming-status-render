@@ -15,7 +15,7 @@
         "ㅤ"
     ],
     "text-3": [
-        "🌡️ {temp:c}  °𝐂ㅤ⋆ㅤ🍃 {wind:kph} 𝐦/𝐬"
+        "{NF3(🌡️ {temp:c}  °𝐂ㅤ⋆ㅤ🍃 {wind:kph})} 𝐦/𝐬"
     ],
     "bigimg": [
         "https://i.ibb.co/kBWCcxf/black-clover-black-clover-movie.gif",
