@@ -1,5 +1,6 @@
 // เอาไปแจกต่อให้เครดิตด้วย | Deobf by 4levy ใครเปลี่ยนขอให้ไม่เจอดี
 
+const keep_alive = require('./keep_alive.js')
 const { Client, RichPresence, Options } = require("discord.js-selfbot-v13");
 const moment = require("moment-timezone");
 const { schedule } = require("node-cron");
